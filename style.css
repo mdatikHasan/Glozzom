@@ -1,0 +1,161 @@
+.navbar{
+    background: black;
+}
+
+
+#update{
+    height: 31px;
+    
+}
+
+.update{
+    background: grey;
+    padding-left: 50px;
+    color: white;
+    padding-bottom: 3px;
+   
+}
+
+
+
+
+.carousel-item{
+    height: 450px;
+    
+    
+}
+
+.carousel-img-1{
+    background: url(img/image1.jpeg);
+    background-size: cover;
+}
+
+.carousel-img-2{
+    background: url(img/image2.jpeg);
+    background-size: cover;
+}
+
+.carousel-img-3{
+    background: url(img/image3.jpeg);
+    background-size: cover;
+}
+
+.carousel-img-4{
+    background: url(img/image4.jpeg);
+    background-size: cover;
+}
+
+.carousel-img-5{
+    background: url(img/image5.jpeg);
+    background-size: cover;
+}
+
+.carousel-img-6{
+    background: url(img/image6.jpeg);
+    background-size: cover;
+}
+
+
+.HomeIcon{
+    font-size: 50px;
+}
+
+#getstarted{
+    background-image: url(img/image6.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 250px;
+    position: relative;
+}
+
+.dark-overlay{
+    background: rgba(0,0,0,0.7);
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+#home-video{
+    background-image: url(img/image5.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 250px;
+    position: relative;
+}
+
+.dark-lay{
+    background: rgba(0,0,0,0.7);
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+}
+
+
+.gallary{
+    min-height: 250px;
+}
+
+.icons{
+    font-size: 40px;
+    color: rgb(253, 30, 30);
+}
+
+#copyright{
+    background: black;
+}
+
+
+#newsletter{
+    color: white;
+}
+
+
+#aboutus{
+    background: url(img/image1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 200px;
+}
+
+#services{
+    background: url(img/image3.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 200px;
+}
+
+
+
+
+.About{
+    font-size: 40px;
+}
+
+.IconMe{
+    font-size: 50px;
+    padding-top: 30px;
+    
+}
+.lorem{
+    font-size: 40px;
+}
+
+
+
+@media(max-width: 480px){
+    .carousel{
+        h2{
+            font-size: 2.5rem
+        }
+    }
+}
